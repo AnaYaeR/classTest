@@ -1,0 +1,16 @@
+C:\Users\hents\source\repos\class\class\bin\Debug\@class.exe.config
+C:\Users\hents\source\repos\class\class\bin\Debug\@class.exe
+C:\Users\hents\source\repos\class\class\bin\Debug\@class.pdb
+C:\Users\hents\source\repos\class\class\bin\Debug\SFML.Audio.dll
+C:\Users\hents\source\repos\class\class\bin\Debug\SFML.Graphics.dll
+C:\Users\hents\source\repos\class\class\bin\Debug\SFML.System.dll
+C:\Users\hents\source\repos\class\class\bin\Debug\SFML.Window.dll
+C:\Users\hents\source\repos\class\class\bin\Debug\SFML.Audio.xml
+C:\Users\hents\source\repos\class\class\bin\Debug\SFML.Graphics.xml
+C:\Users\hents\source\repos\class\class\bin\Debug\SFML.System.xml
+C:\Users\hents\source\repos\class\class\bin\Debug\SFML.Window.xml
+C:\Users\hents\source\repos\class\class\obj\Debug\class.csprojAssemblyReference.cache
+C:\Users\hents\source\repos\class\class\obj\Debug\class.csproj.CoreCompileInputs.cache
+C:\Users\hents\source\repos\class\class\obj\Debug\class.csproj.CopyComplete
+C:\Users\hents\source\repos\class\class\obj\Debug\@class.exe
+C:\Users\hents\source\repos\class\class\obj\Debug\@class.pdb
